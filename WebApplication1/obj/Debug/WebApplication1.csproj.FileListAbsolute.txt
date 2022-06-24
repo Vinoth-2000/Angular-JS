@@ -1,0 +1,6 @@
+D:\Angularrr\AngularJsVinoth\WebApplication1\bin\WebApplication1.dll.config
+D:\Angularrr\AngularJsVinoth\WebApplication1\bin\WebApplication1.dll
+D:\Angularrr\AngularJsVinoth\WebApplication1\bin\WebApplication1.pdb
+D:\Angularrr\AngularJsVinoth\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Angularrr\AngularJsVinoth\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Angularrr\AngularJsVinoth\WebApplication1\obj\Debug\WebApplication1.pdb
