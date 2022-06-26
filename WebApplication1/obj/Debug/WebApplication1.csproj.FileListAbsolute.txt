@@ -4,3 +4,10 @@ D:\Angularrr\AngularJsVinoth\WebApplication1\bin\WebApplication1.pdb
 D:\Angularrr\AngularJsVinoth\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 D:\Angularrr\AngularJsVinoth\WebApplication1\obj\Debug\WebApplication1.dll
 D:\Angularrr\AngularJsVinoth\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Grid\Angular\AngularJsVinoth\WebApplication1\bin\WebApplication1.dll.config
+D:\Grid\Angular\AngularJsVinoth\WebApplication1\bin\WebApplication1.dll
+D:\Grid\Angular\AngularJsVinoth\WebApplication1\bin\WebApplication1.pdb
+D:\Grid\Angular\AngularJsVinoth\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\Grid\Angular\AngularJsVinoth\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Grid\Angular\AngularJsVinoth\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Grid\Angular\AngularJsVinoth\WebApplication1\obj\Debug\WebApplication1.pdb
